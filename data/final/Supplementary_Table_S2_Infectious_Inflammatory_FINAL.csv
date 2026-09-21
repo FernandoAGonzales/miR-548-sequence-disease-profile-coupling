@@ -1,0 +1,20 @@
+Category,Disease,miR-548 identifier(s),Evidence class(es),Source as recorded,Reference(s),Association records
+Infectious diseases,American Tegumentary Leishmaniasis,miR-548d-3p,E1,HMDD,"[20](Souza et al., 2021)",1
+Infectious diseases,Chronic Hepatitis B,miR-548ah; miR-548j-5p,E1,HMDD; Pubmed,"[18]Mekky et al., 2019; [29](Xing et al., 2014); [45](Xing et al., 2019); [46](Yu et al., 2017)",2
+Infectious diseases,Cystic Fibrosis by Pseudomonas,miR-548e-3p; miR-548f-3p,E1,HMDD,"[51](Fesen et al., 2019)",2
+Infectious diseases,Dengue virus infection,miR-548g-3p,E1,Pubmed,"[26]Zhuo et al., 2018; [55](Wen et al., 2015)",1
+Infectious diseases,Flaviviridae virus infection,miR-548d-3p,E2,Pubmed,"[54](Cayatineto & Hakim, 2024)",1
+Infectious diseases,Hepatitis C infection,miR-548m,E1,HMDD,"[17]He & Wang, 2020 ; [18](Mekky et al., 2019)",1
+Infectious diseases,Human T-cell Leukemia Virus II Infections,miR-548c-5p; miR-548d-5p,E1,HMDD,"[49](Pilotti et al., 2022)",2
+Infectious diseases,Human Visceral Leishmaniasis,miR-548d-3p,E1,Pubmed,"[12](Ramos-Sanchez et al., 2022)",1
+Infectious diseases,Influenza A infection,miR-548an; miR-548c-5p,E1,HMDD,"[24]Zheng et al., 2014; [47](Othumpangat et al., 2013); [48](Zabrodskaya et al., 2022)",2
+Infectious diseases,Pulmonary tuberculosis,miR-548b-3p,E1,HMDD,"[41](Wang et al., 2011)",1
+Infectious diseases,Subacute Sclerosing Panencephalitis (SSPE),miR-548b-5p; miR-548c-5p; miR-548i,E1,Pubmed; HMDD,"[30](Cakmak et al., 2018)",3
+Inflammatory diseases,Acute Pancreatitis,miR-548ad-5p; miR-548d-5p,E1,HMDD,"[43](Qu et al., 2023); [44](Chen, Y. et al., 2021)",2
+Inflammatory diseases,Asthma,miR-548at-5p; miR-548i,E2; E1,HMDD; Pubmed,"[52](Tian et al., 2021); [53](Gil-Martínez et al., 2023)",2
+Inflammatory diseases,Chorioamnionitis,miR-548a-3p; miR-548aa; miR-548ai; miR-548x-5p,E1,HMDD,"[38](Son et al., 2019)",4
+Inflammatory diseases,Lung ischemia-reperfusion injury (LIRI),miR-548b-3p,E1,HMDD,"[40](Elgharably et al., 2020)",1
+Inflammatory diseases,"Non-Specific-Inflammation, especially preterm birth",miR-548e-5p,E1,HMDD,"[50](Yang et al., 2019)",1
+Inflammatory diseases,Periodontitis,miR-548a-3p,E1,HMDD,"[39](Lee et al., 2011)",1
+Inflammatory diseases,Preeclampsia,miR-548c-5p,E1,HMDD,"[24]Zheng et al., 2014",1
+Inflammatory diseases,Rhinosinusitis,miR-548e-3p,E1,HMDD,"[42](Xuan et al., 2019)",1
