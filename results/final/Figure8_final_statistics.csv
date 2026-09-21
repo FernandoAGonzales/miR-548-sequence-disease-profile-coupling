@@ -1,0 +1,5 @@
+Dataset,Sequence metric,n_miRNAs,pairwise_comparisons,Spearman_rho,permutation_p_two_sided,permutations,seed
+ALL,Normalized Levenshtein,44,946,-0.11030059023456061,0.10017996400719856,5000,42
+ALL,Padded mismatch sensitivity,44,946,-0.08623071531870703,0.2411517696460708,5000,42
+E1-only,Normalized Levenshtein,43,903,-0.11496534781364365,0.10077984403119376,5000,42
+E1-only,Padded mismatch sensitivity,43,903,-0.08633597720628262,0.25834833033393323,5000,42

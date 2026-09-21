@@ -1,0 +1,11 @@
+Final audited workflow validation
+
+The final sequence-function script was executed with:
+- 44 unique mature-sequence tips (ALL)
+- 43 unique mature-sequence tips (E1-only)
+- normalized global Levenshtein distance as primary sequence metric
+- Jaccard disease-profile distance
+- 5,000 label permutations
+- seed = 42
+
+The recomputed statistics exactly matched the archived final statistics to full floating-point precision.
