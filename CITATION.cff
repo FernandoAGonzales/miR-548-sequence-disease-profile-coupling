@@ -1,0 +1,72 @@
+cff-version: 1.2.0
+message: "If you use these datasets, scripts, or workflows, please cite this repository and the associated manuscript."
+
+title: "Disease-association convergence in the miR-548 family reveals limited coupling between mature-sequence evolution and broad disease profiles: datasets and reproducible workflows"
+
+authors:
+  - family-names: Asanza-Sanmartin
+    given-names: Damaris
+  - family-names: Solorzano-Toala
+    given-names: Enrique A.
+  - family-names: Reis
+    given-names: Luiza Campos
+  - family-names: Cucho-Hidalgo
+    given-names: Marye Nigaj Alessandra
+  - family-names: Oc-Carrasco
+    given-names: Oscar Joel
+  - family-names: Ordiñola-Ramirez
+    given-names: Carla Maria
+  - family-names: Pacheco-Otalora
+    given-names: Luis F.
+  - family-names: Lopez Lapa
+    given-names: Rainer M.
+  - family-names: Ramos-Sanchez
+    given-names: Eduardo M.
+  - family-names: Gonzales-Zubiate
+    given-names: Fernando A.
+
+version: "1.0.0-submission"
+date-released: 2026-09-18
+repository-code: "https://github.com/FernandoAGonzales/miR-548-weak-phylogenetic-coupling-and-functional-convergence"
+url: "https://github.com/FernandoAGonzales/miR-548-weak-phylogenetic-coupling-and-functional-convergence"
+license: MIT
+
+keywords:
+  - miR-548
+  - microRNA
+  - phylogenetics
+  - disease association
+  - sequence-function coupling
+  - functional convergence
+  - evolutionary biology
+
+abstract: >
+  This repository contains the final audited datasets, processed matrices,
+  phylogenetic resources, statistical outputs, and reproducible workflows
+  associated with the study of mature-sequence evolution and disease-association
+  organization in the human miR-548 family.
+
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Asanza-Sanmartin
+      given-names: Damaris
+    - family-names: Solorzano-Toala
+      given-names: Enrique A.
+    - family-names: Reis
+      given-names: Luiza Campos
+    - family-names: Cucho-Hidalgo
+      given-names: Marye Nigaj Alessandra
+    - family-names: Oc-Carrasco
+      given-names: Oscar Joel
+    - family-names: Ordiñola-Ramirez
+      given-names: Carla Maria
+    - family-names: Pacheco-Otalora
+      given-names: Luis F.
+    - family-names: Lopez Lapa
+      given-names: Rainer M.
+    - family-names: Ramos-Sanchez
+      given-names: Eduardo M.
+    - family-names: Gonzales-Zubiate
+      given-names: Fernando A.
+  title: "Disease-association convergence in the miR-548 family reveals limited coupling between mature-sequence evolution and broad disease profiles"
