@@ -1,14 +1,14 @@
 miRNA,Validated_targets,Disease,Pathway_mechanism,Functional_role,Method,Reference_1,Reference_2
 miR-548a-3p,TPX2,Colon cancer,Mitotic spindle / proliferation,Tumor suppressor,qRT/PCR Luciferase reporter assay,"[18]Mekky et al., 2019","[117](Wang, M. et al., 2022)"
 miR-548ac,CD58 (genetic locus),Multiple sclerosis,Immune regulation,Immunoregulatory,Patient PBMC qRT-PCR; allele-specific miRNA processing assay; miR-548ac overexpression; transcriptomic/microarray analysis; luciferase reporter assay,"[33](Hecker et al., 2019)",
-miR-548ac,TRIM28,Acute Myeloid Leukemia,TRIM28/STAT3 signaling; extracellular-vesicle-mediated hematopoietic regulation,,qRT-PCR; extracellular-vesicle isolation/transfer; miRNA mimic/inhibitor; dual-luciferase reporter assay; Western blot; colony-forming unit assay; TRIM28 rescue,"[119](Zhao, C. et al., 2022)",
+miR-548ac,TRIM28,Acute Myeloid Leukemia,TRIM28/STAT3 signaling; extracellular-vesicle-mediated hematopoietic regulation,Hematopoietic suppressor,qRT-PCR; extracellular-vesicle isolation/transfer; miRNA mimic/inhibitor; dual-luciferase reporter assay; Western blot; colony-forming unit assay; TRIM28 rescue,"[119](Zhao, C. et al., 2022)",
 miR-548ah,HDAC4,Chronic Hepatitis B infection,Epigenetic regulation of viral replication,Pro-viral,qRT/PCR Dual-luciferase reporter assay TargetScan11 and Kyoto encyclopedia,"[18]Mekky et al., 2019","[29](Xing et al., 2014); [45](Xing et al., 2019)"
 miR-548an,NS1A-binding protein,Influenza A infection,Host antiviral response,Host regulator,qRT/PCR Dual-luciferase reporter assay Inmunoprecipitation,"[24]Zheng et al., 2014","[47](Othumpangat et al., 2013)"
 miR-548b-3p,MDM2,Breast cancer,p53 signaling pathway,Tumor suppressor,qRT/PCR Dual-luciferase reporter assay,"[18]Mekky et al., 2019 ; [125](Sha, M. et al,. 2020)","[125](Sha, M. et al,. 2020)"
 miR-548b-3p,HMGB1,Melanoma,Inflammatory signaling,Tumor suppressor,qRT/PCR Dual-luciferase reporter assay,"[16](Feng, 2021)",
 miR-548c-3p,HIF1A,Papillary thyroid carcinoma,Hypoxia signaling (HIF1α/VEGF axis),Tumor suppressor,qRT/PCR,"[15]Liang et al., 2012 ; [146](Du, Y. et al., 2019)",
 miR-548c-3p,E2F3,Triple negative Breast cancer,Cell cycle progression,Tumor suppressor,qRT/PCR Dual-luciferase reporter assay,"[16]Feng, 2021 ; [135](Wang, X. et al., 2021); [136](Tormo, E. et al., 2015)",
-miR-548c-3p,E2F3,Breast cancer,,,qRT-PCR,"[131](Tan et al., 2020)",
+miR-548c-3p,E2F3,Breast cancer,Cell cycle progression,Tumor suppressor,qRT-PCR,"[131](Tan et al., 2020)",
 miR-548c-3p,UBE2T LAMC2,Hepatocellular carcinoma,,,qRT/PCR Dual-luciferase reporter assay FISH,"[11](Chen et al., 2022); [101](Jin et al., 2020)",
 miR-548c-3p,TWIST,Ovarian cancer,,,qRT/PCR Dual-luciferase reporter assay,"[137](Sun, X. et al., 2016)",
 miR-548c-5p,PGK1 HIF1A,Colorectal cancer,Glycolysis / metabolic reprogramming Signal trasduction/regulate CDC42,Tumor suppressor,FISH assay qRT/PCR Dual-luciferase reporter assay,"[26]Zhuo et al., 2018 ; [112](Li, C. et al., 2022); [113](Ge, J. et al., 2019); [114](Yan, S. et al., 2020); [115](Peng, Z. et al., 2019)",
