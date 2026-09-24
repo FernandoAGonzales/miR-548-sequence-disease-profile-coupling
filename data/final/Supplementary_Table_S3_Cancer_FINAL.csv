@@ -1,20 +1,20 @@
 Category,Disease / neoplastic condition,miR-548 identifier(s),Evidence class(es),Source as recorded,Reference(s),Association records
-Cancer,Acute Myeloid Leukemia,miR-548ac,E1,HMDD,"[119](Zhao, C. et al., 2022)",1
-Cancer,Bladder cancer,miR-548l,E1,HMDD,"[108](Yang et al., 2020)",1
-Cancer,Breast cancer,miR-548aq-5p; miR-548b-3p; miR-548b-5p; miR-548c-3p; miR-548c-5p; miR-548d-3p; miR-548k; miR-548m; miR-548n; miR-548p; miR-548t-3p,E1,HMDD; HMDD; HMDD; HMDD; Pubmed,"[22]Yang B. et al., 2023; [18]Mekky et al., 2019 ; [125](Sha, M. et al,. 2020); [125](Sha, M. et al,. 2020); [23](Záveský et al., 2022); [126](Yan, C. et al., 2019); [131](Tan et al., 2020); [17](He & Wang et al., 2020); [23]Záveský et al., 2022 ; [127](Song et al., 2016); [21]Yang W. et al., 2023 ; [128](Yadollahi et al., 2023); [129](Saberiyan et al., 2023); [130](Wm Nor et al., 2021); [25]Zheng et al., 2021 ; [133](Huang, X. et al., 2023); [134](Emmadi et al., 2015)",11
-Cancer,Chronic Myeloid Leukemia,miR-548b-3p,E1,HMDD,"[120](Zhong, A. et al., 2021)",1
-Cancer,Colonic Cancer,miR-548a-3p,E1,HMDD,"[18]Mekky et al., 2019; [117](Wang, M. et al., 2022)",1
-Cancer,Colorectal cancer,miR-548b; miR-548b-3p; miR-548b-5p; miR-548c-5p; miR-548f-5p; miR-548g-3p; miR-548i,E1,HMDD; HMDD; HMDD; HMDD; HMDD,"[110](Xu, et al., 2020); [111](Duan & Qiu, 2022); [112](Li, C. et al., 2022); [26]Zhuo et al., 2018 ; [112](Li, C. et al., 2022); [113](Ge, J. et al., 2019); [114](Yan, S. et al., 2020); [115](Peng, Z. et al., 2019); [116](Patil, N. et al., 2021)",7
-Cancer,Diffuse Large B-cell Lymphoma (DLBCL),miR-548d-3p,E1,HMDD,"[124](Ting, C. et al., 2022)",1
-Cancer,Early-Stage Colon Adenocarcinoma,miR-548am-5p; miR-548c-5p; miR-548i,E1,HMDD,"[109](Liu, J. et al., 2017); [109] (Liu, J. et al., 2017)",4
-Cancer,Endometrial cancer,miR-548ag; miR-548f; miR-548t-5p,E1,HMDD,"[139](Pang, H. et al., 2023); [140](Ni et al., 2022); [141](Witek, L. et al., 2021)",3
-Cancer,Esophageal Cancer,miR-548d-5p,E1,HMDD,"[80](Hummel et al., 2011)",1
-Cancer,Esophageal Squamous Cell Carcinoma,miR-548g; miR-548k,E1,HMDD,"[81](Takaki et al., 2021); [82](Lin, J. et al., 2019)",2
+Cancer,Acute Myeloid Leukemia,miR-548ac,E1,HMDD,"[30][129](Zhao, C. et al., 2022);(Izadifard et al., 2025)",1
+Cancer,Bladder cancer,miR-548l,E1,HMDD,"[60](Yang et al., 2020)",1
+Cancer,Breast cancer,miR-548aq-5p; miR-548b-3p; miR-548b-5p; miR-548c-3p; miR-548c-5p; miR-548d-3p; miR-548k; miR-548m; miR-548n; miR-548p; miR-548t-3p,E1,HMDD; HMDD; HMDD; HMDD; Pubmed,"[22]Yang B. et al., 2023; [34](Sha, M. et al,. 2020); [23](Záveský et al., 2022); [134](Yan, C. et al., 2019); [17](He & Wang et al., 2020); [135](Song et al., 2016); [136](Yadollahi et al., 2023); [137](Saberiyan et al., 2023); [65](Wm Nor et al., 2021); [38]Tan et al., 2020 ; [138](Tripathi et al., 2020); [66](Huang, X. et al., 2023); [139](Emmadi et al., 2015)",11
+Cancer,Chronic Myeloid Leukemia,miR-548b-3p,E1,HMDD,"[130](Zhong, A. et al., 2021)",1
+Cancer,Colonic Cancer,miR-548a-3p,E1,HMDD,"[27](Wang, M. et al., 2022)",1
+Cancer,Colorectal cancer,miR-548b; miR-548b-3p; miR-548b-5p; miR-548c-5p; miR-548f-5p; miR-548g-3p; miR-548i,E1,HMDD; HMDD; HMDD; HMDD; HMDD,"[125](Xu, et al., 2020); [126](Duan & Qiu, 2022); [41](Li, C. et al., 2022); [42](Ge, J. et al., 2019); [43](Yan, S. et al., 2020); [44](Peng, Z. et al., 2019); [127](Patil, N. et al., 2021)",7
+Cancer,Diffuse Large B-cell Lymphoma (DLBCL),miR-548d-3p,E1,HMDD,"[133](Ting, C. et al., 2022)",1
+Cancer,Early-Stage Colon Adenocarcinoma,miR-548am-5p; miR-548c-5p; miR-548i,E1,HMDD,"[124] (Liu, J. et al., 2017)",4
+Cancer,Endometrial cancer,miR-548ag; miR-548f; miR-548t-5p,E1,HMDD,"[140](Pang, H. et al., 2023); [141](Ni et al., 2022); [142](Witek, L. et al., 2021)",3
+Cancer,Esophageal Cancer,miR-548d-5p,E1,HMDD,"[107](Hummel et al., 2011)",1
+Cancer,Esophageal Squamous Cell Carcinoma,miR-548g; miR-548k,E1,HMDD,"[108](Takaki et al., 2021); [58](Lin, J. et al., 2019)",2
 Cancer,Follicular Variant Papillary Thyroid Cancer,miR-548ar-5p,E1,HMDD,"[147](Macerola et al., 2022)",1
-Cancer,Gallbladder cancer,miR-548c-3p,E1,HMDD,"[107](Kong, L. et al., 2019)",1
-Cancer,Gastric cancer,miR-548a-3p; miR-548ac; miR-548bb-3p; miR-548c-3p; miR-548d-3p; miR-548g; miR-548h; miR-548j; miR-548z,E1,Not specified in source workbook; HMDD; HMDD; HMDD; HMDD; HMDD; HMDD,"[84](Chen, S. et al., 2020); [85](Chen et al., 2023); [92](Yu, S. et al., 2022); [86](Li, B. et al., 2022); [87](Huang et al., 2022); [88](Liang et al., 2020); [92](Yu, S. et al., 2022); [89](Fang et al., 2019); [91](Modesto et al., 2023); [92](Yu, S. et al., 2022); [90](Landeros et al., 2021)",9
-Cancer,Glioma,miR-548b-3p; miR-548m,E1,HMDD,"[73](Li, C. et al., 2022); [74](Li & Lan, 2023)",2
-Cancer,Head and neck squamous cell carcinoma,miR-548b-3p; miR-548b-5p; miR-548k,E2; E1,HMDD,"[56](Sass, S. et al., 2015; [57](Veeramachaneni et al., 2019)",3
+Cancer,Gallbladder cancer,miR-548c-3p,E1,HMDD,"[123](Kong, L. et al., 2019)",1
+Cancer,Gastric cancer,miR-548a-3p; miR-548ac; miR-548bb-3p; miR-548c-3p; miR-548d-3p; miR-548g; miR-548h; miR-548j; miR-548z,E1,Not specified in source workbook; HMDD; HMDD; HMDD; HMDD; HMDD; HMDD,"[110](Chen, S. et al., 2020); [111](Chen et al., 2023); [49](Yu, S. et al., 2022); [112](Li, B. et al., 2022); [66](Huang et al., 2022); [48](Liang et al., 2020); [55](Fang et al., 2019); [113](Landeros et al., 2021); [114](Modesto et al., 2023)",9
+Cancer,Glioma,miR-548b-3p; miR-548m,E1,HMDD,"[103](Li, Chenlong. et al., 2022); [63](Li & Lan, 2023)",2
+Cancer,Head and neck squamous cell carcinoma,miR-548b-3p; miR-548b-5p; miR-548k,E2; E1,HMDD,"[89](Sass, S. et al., 2015; [90](Veeramachaneni et al., 2019)",3
 Cancer,Hepatocellular carcinoma,miR-548a-3p; miR-548a-5p; miR-548ah-3p; miR-548b-3p; miR-548c-3p; miR-548i; miR-548l-5p; miR-548p; miR-548s-3p,E1,Not specified in source workbook; HMDD; HMDD; HMDD,"[97](Habieb et al., 2019); [98](Zhao et al., 2016); [99](Wang, L. et al., 2022); [100](Lin & Wang, 2018); [11](Chen et al., 2022); [101](Jin et al., 2020); [102](Jia et al., 2021); [103](Cai et al., 2017); [16]Feng, 2021 ; [104](Wang, Y. et al., 2022); [105](Li, Z et al., 2022); [27](Zhang et al., 2019); [106](Xu et al., 2022)",9
 Cancer,Hypopharyngeal squamous cell carcinoma,miR-548ao-3p,E1,HMDD,"[83](Yan, J. et al., 2020)",1
 Cancer,Laryngeal Carcinoma,miR-548ac; miR-548k,E1,HMDD,"[59](Song et al., 2020); [58](Kang et al., 2021)",2
