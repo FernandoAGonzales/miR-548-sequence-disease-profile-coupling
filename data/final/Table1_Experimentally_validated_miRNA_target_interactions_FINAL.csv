@@ -1,7 +1,7 @@
 miRNA,Validated_targets,Disease,Pathway_mechanism,Functional_role,Method,References
 miR-548a-3p,TPX2,Colon cancer,Mitotic spindle / proliferation,Tumor suppressor,qRT/PCR Luciferase reporter assay,"[27](Wang, M. et al., 2022)"
 miR-548ac,CD58 (genetic locus),Multiple sclerosis,Immune regulation,Immunoregulatory,Patient PBMC qRT-PCR; allele-specific miRNA processing assay; miR-548ac overexpression; transcriptomic/microarray analysis; luciferase reporter assay,"[28](Hecker et al., 2015); [29](Hecker et al., 2019)"
-miR-548ac,TRIM28,Acute Myeloid Leukemia,TRIM28/STAT3 signaling; extracellular-vesicle-mediated hematopoietic regulation,Hematopoietic suppressor,qRT-PCR; extracellular-vesicle isolation/transfer; miRNA mimic/inhibitor; dual-luciferase reporter assay; Western blot; colony-forming unit assay; TRIM28 rescue,"[30](Zhao, C. et al., 2022)" 
+miR-548ac,TRIM28,Acute Myeloid Leukemia,TRIM28/STAT3 signaling; extracellular-vesicle-mediated hematopoietic regulation,Hematopoietic suppressor,qRT-PCR; extracellular-vesicle isolation/transfer; miRNA mimic/inhibitor; dual-luciferase reporter assay; Western blot; colony-forming unit assay; TRIM28 rescue,"[30](Zhao, C. et al., 2022)"
 miR-548ah,HDAC4,Chronic Hepatitis B infection,Epigenetic regulation of viral replication,Pro-viral,qRT/PCR Dual-luciferase reporter assay TargetScan11 and Kyoto encyclopedia,"[31](Xing et al., 2014); [32](Xing et al., 2019)"
 miR-548an,NS1A-binding protein,Influenza A infection,Host antiviral response,Host regulator,qRT/PCR Dual-luciferase reporter assay Inmunoprecipitation,"[24](Zheng et al., 2014), [33](Othumpangat et al., 2013)"
 miR-548b-3p,MDM2,Breast cancer,p53 signaling pathway,Tumor suppressor,qRT/PCR Dual-luciferase reporter assay,"[34](Sha et al,. 2020)"
@@ -35,7 +35,7 @@ miR-548m,AHR,Breast cancer,,,qRT-PCR/Dual-Luciferase Reporter,"[65](Wm Nor et al
 miR-548n,E2F3,Breast cancer,,,qRT-PCR,"[38](Tan et al., 2020)"
 miR-548o-3p,ROBO1,Non-Small-Cell Lung Carcinoma,,,qrt-PCR/microarrays/xenogrft model,"[25](Zheng et al., 2021)"
 miR-548p,Notch2,Breast cancer,Notch signaling pathway,Oncogenic,"RNA pull-down, dual-luciferase reporter, and qRT-PCR/in vivo","[66](Huang, X. et al., 2023)"
-miR-548p,TUFT1,Hepatocellular carcinoma,EMT / metastasis,Oncogenic,Dual-luciferase reporter-RNA immunoprecipitation-xenograft model/qRT-PCR-chromatin immunoprecipitation and luciferase activity assay/dual-luciferase reporter,"[67](Wang, Y. et al., 2022); [68](Li, Z. et al., 2022); [69](Zhang et al., 2019) "
+miR-548p,TUFT1,Hepatocellular carcinoma,EMT / metastasis,Oncogenic,Dual-luciferase reporter-RNA immunoprecipitation-xenograft model/qRT-PCR-chromatin immunoprecipitation and luciferase activity assay/dual-luciferase reporter,"[67](Wang, Y. et al., 2022); [68](Li, Z. et al., 2022); [69](Zhang et al., 2019)"
 miR-548t-5p,CXCL11,Pancreatic carcinoma,,,luciferase reporter gene/chromatin immunoprecipitation (ChIP)/functional recovery assays,"[70](Ge, W. et al., 2020)"
 miR-548x-5p,HMGB1,Chorioamnionitis,,,qRT-PCR,"[71](Son et al., 2019)"
 miR-548z,GKN1,Gastric cancer,,,Microarray assay qRT/PCR Dual-luciferase reporter assay,"[49](Yu, S. et al., 2022)"
