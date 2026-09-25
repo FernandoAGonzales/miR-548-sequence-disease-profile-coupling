@@ -44,30 +44,30 @@ miR-548b-3p,Colorectal cancer,Cancer,E1,HMDD,"[126](Duan & Qiu, 2022)",,Ex vivo 
 miR-548b-5p,Head and neck squamous cell carcinoma,Cancer,E2,HMDD,"[89](Sass, S. et al., 2015",,In silico,TCGA data portal TargetScan,,,,True
 miR-548b-5p,Colorectal cancer,Cancer,E1,HMDD,"[112](Li, C. et al., 2022)",,In vitro,FISH assay qRT/PCR,,,,True
 miR-548b-5p,Breast cancer,Cancer,E1,HMDD; HMDD,"[23](Záveský et al., 2022); [126](Yan, C. et al., 2019)",,Ex vivo,qRT/PCR,,,,True
-miR-548b-5p,Subacute Sclerosing Panencephalitis (SSPE),Infectious diseases,E1,Pubmed,"[30](Cakmak et al., 2018)",,Ex vivo,qRT/PCR,,,,True
-miR-548b-5p,Malignant Astrocytoma,Cancer,E1,HMDD,"[75](Yang et al., 2013)",,Ex vivo,qRT/PCR,,,,True
-miR-548b-5p,Primary central nervous system lymphoma (PCNSL),Cancer,E1,HMDD,"[123](Takashima et al.,2020)",,Ex vivo In silico,Microarrays qRT/PCR TargetScanHuman,,,,True
-miR-548bb-3p,Gastric cancer,Cancer,E1,HMDD,"[92](Yu, S. et al., 2022)",,In vitro In vivo,Microarray assay qRT/PCR Dual-luciferase reporter assay,,,,True
+miR-548b-5p,Subacute Sclerosing Panencephalitis (SSPE),Infectious diseases,E1,Pubmed,"[82](Cakmak et al., 2018)",,Ex vivo,qRT/PCR,,,,True
+miR-548b-5p,Malignant Astrocytoma,Cancer,E1,HMDD,"[104](Yang et al., 2013)",,Ex vivo,qRT/PCR,,,,True
+miR-548b-5p,Primary central nervous system lymphoma (PCNSL),Cancer,E1,HMDD,"[132](Takashima et al.,2020)",,Ex vivo In silico,Microarrays qRT/PCR TargetScanHuman,,,,True
+miR-548bb-3p,Gastric cancer,Cancer,E1,HMDD,"[49](Yu, S. et al., 2022)",,In vitro In vivo,Microarray assay qRT/PCR Dual-luciferase reporter assay,,,,True
 miR-548bb-3p,Cancer,Cancer,E1,HMDD,"Hu et al., 2014 (PMID: 24556720)",Original article uses C2-miRNA/miR-548bb nomenclature; the mature miR-548bb-3p annotation is linked to PMID 24556720 in miRBase.,Ex vivo / In vitro / In vivo,RT-qPCR; NanoString; miRNA overexpression/inhibition; cell viability/apoptosis assays; mouse xenograft,,,,True
-miR-548c-3p,Papillary thyroid carcinoma,Cancer,E1,HMDD,"[15]Liang et al., 2012 ; [146](Du, Y. et al., 2019)",,Ex vivo In vitro,qRT/PCR,HIF1A,Hypoxia signaling (HIF1α/VEGF axis),Tumor suppressor,True
-miR-548c-3p,Triple negative Breast cancer,Cancer,E1,HMDD; HMDD,"[16]Feng, 2021 ; [135](Wang, X. et al., 2021); [136](Tormo, E. et al., 2015)",,Ex vivo In vitro In vivo,qRT/PCR Dual-luciferase reporter assay,E2F3,Cell cycle progression,Tumor suppressor,True
-miR-548c-3p,Breast cancer,Cancer,E1,HMDD,"[131](Tan et al., 2020)",,In Vitro,qRT-PCR,E2F3,,,True
-miR-548c-3p,Osteosarcoma,Cancer,E1,HMDD; HMDD,"[77](Yao et al., 2020); [78](Zheng et al., 2020)",,Ex vivo In Vitro,qRT/PCR Dual-luciferase reporter assay,,,,True
-miR-548c-3p,Gastric cancer,Cancer,E1,HMDD,"[86](Li, B. et al., 2022)",,Ex vivo In vitro,qRT/PCR,,,,True
-miR-548c-3p,Hepatocellular carcinoma,Cancer,E1,HMDD; HMDD,"[11](Chen et al., 2022); [101](Jin et al., 2020)",,In vivo,qRT/PCR Dual-luciferase reporter assay FISH,UBE2T LAMC2,,,True
-miR-548c-3p,Gallbladder cancer,Cancer,E1,HMDD,"[107](Kong, L. et al., 2019)",,Ex vivo,qRT/PCR,,,,True
-miR-548c-3p,Ovarian cancer,Cancer,E1,HMDD,"[137](Sun, X. et al., 2016)",,In vitro,qRT/PCR Dual-luciferase reporter assay,TWIST,,,True
-miR-548c-3p,Prostate cancer,Cancer,E1,Pubmed,"[142](Saffari M. et al., 2019)",,Ex vivo,qRT/PCR,,,,True
-miR-548c-5p,Colorectal cancer,Cancer,E1,HMDD; HMDD; HMDD; HMDD,"[26]Zhuo et al., 2018 ; [112](Li, C. et al., 2022); [113](Ge, J. et al., 2019); [114](Yan, S. et al., 2020); [115](Peng, Z. et al., 2019)",,In vitro In vivo,FISH assay qRT/PCR Dual-luciferase reporter assay,PGK1 HIF1A,Glycolysis / metabolic reprogramming Signal trasduction/regulate CDC42,Tumor suppressor,True
-miR-548c-5p,Early-Stage Colon Adenocarcinoma,Cancer,E1,HMDD,"[109] (Liu, J. et al., 2017)",,Ex vivo In silico,qRT/PCR miRWalk,,,,True
+miR-548c-3p,Papillary thyroid carcinoma,Cancer,E1,HMDD,"[15]Liang et al., 2012 ; [35](Du, Y. et al., 2019)",,Ex vivo In vitro,qRT/PCR,HIF1A,Hypoxia signaling (HIF1α/VEGF axis),Tumor suppressor,True
+miR-548c-3p,Triple negative Breast cancer,Cancer,E1,HMDD; HMDD,"[16]Feng, 2021 ; [36](Wang, X. et al., 2021); [37](Tormo, E. et al., 2015)",,Ex vivo In vitro In vivo,qRT/PCR Dual-luciferase reporter assay,E2F3,Cell cycle progression,Tumor suppressor,True
+miR-548c-3p,Breast cancer,Cancer,E1,HMDD,"[38](Tan et al., 2020)",,In Vitro,qRT-PCR,E2F3,,,True
+miR-548c-3p,Osteosarcoma,Cancer,E1,HMDD; HMDD,"[105](Yao et al., 2020); [106](Zheng et al., 2020)",,Ex vivo In Vitro,qRT/PCR Dual-luciferase reporter assay,,,,True
+miR-548c-3p,Gastric cancer,Cancer,E1,HMDD,"[112](Li, B. et al., 2022)",,Ex vivo In vitro,qRT/PCR,,,,True
+miR-548c-3p,Hepatocellular carcinoma,Cancer,E1,HMDD; HMDD,"[11](Chen et al., 2022); [39](Jin et al., 2020)",,In vivo,qRT/PCR Dual-luciferase reporter assay FISH,UBE2T LAMC2,,,True
+miR-548c-3p,Gallbladder cancer,Cancer,E1,HMDD,"[123](Kong, L. et al., 2019)",,Ex vivo,qRT/PCR,,,,True
+miR-548c-3p,Ovarian cancer,Cancer,E1,HMDD,"[40](Sun, X. et al., 2016)",,In vitro,qRT/PCR Dual-luciferase reporter assay,TWIST,,,True
+miR-548c-3p,Prostate cancer,Cancer,E1,Pubmed,"[143](Saffari M. et al., 2019)",,Ex vivo,qRT/PCR,,,,True
+miR-548c-5p,Colorectal cancer,Cancer,E1,HMDD; HMDD; HMDD; HMDD,"[26]Zhuo et al., 2018 ; [41](Li, C. et al., 2022); [70](Ge, J. et al., 2019); [114](Yan, S. et al., 2020); [115](Peng, Z. et al., 2019)",,In vitro In vivo,FISH assay qRT/PCR Dual-luciferase reporter assay,PGK1 HIF1A,Glycolysis / metabolic reprogramming Signal trasduction/regulate CDC42,Tumor suppressor,True
+miR-548c-5p,Early-Stage Colon Adenocarcinoma,Cancer,E1,HMDD,"[124] (Liu, J. et al., 2017)",,Ex vivo In silico,qRT/PCR miRWalk,,,,True
 miR-548c-5p,Preeclampsia,Inflammatory diseases,E1,HMDD,"[24]Zheng et al., 2014",,Ex vivo,qRT/PCR,PTPRO,Inflammatory signaling modulation,Anti-inflammatory,True
-miR-548c-5p,Subacute Sclerosing Panencephalitis (SSPE),Infectious diseases,E1,HMDD,"[30](Cakmak et al., 2018)",,Ex vivo,qRT/PCR,,,,True
-miR-548c-5p,Human T-cell Leukemia Virus II Infections,Infectious diseases,E1,HMDD,"[49](Pilotti et al., 2022)",,In vitro,qRT-PCR,,,,True
-miR-548c-5p,Early-Stage Colon Adenocarcinoma,Cancer,E1,HMDD,"[109](Liu, J. et al., 2017)",,Ex vivo In silico,qRT/PCR miRWalk,,,,True
-miR-548c-5p,Rectal cancer,Cancer,E1,HMDD,"[118](Du, B. et al., 2018)",,Ex vivo In silico,Microarray analysis miRWalk,,,,True
-miR-548c-5p,Influenza A virus,Infectious diseases,E1,HMDD,"[48](Zabrodskaya et al., 2022)",,In vitro,qRT-PCR,,,,True
+miR-548c-5p,Subacute Sclerosing Panencephalitis (SSPE),Infectious diseases,E1,HMDD,"[82](Cakmak et al., 2018)",,Ex vivo,qRT/PCR,,,,True
+miR-548c-5p,Human T-cell Leukemia Virus II Infections,Infectious diseases,E1,HMDD,"[83](Pilotti et al., 2022)",,In vitro,qRT-PCR,,,,True
+miR-548c-5p,Early-Stage Colon Adenocarcinoma,Cancer,E1,HMDD,"[124](Liu, J. et al., 2017)",,Ex vivo In silico,qRT/PCR miRWalk,,,,True
+miR-548c-5p,Rectal cancer,Cancer,E1,HMDD,"[128](Du, B. et al., 2018)",,Ex vivo In silico,Microarray analysis miRWalk,,,,True
+miR-548c-5p,Influenza A virus,Infectious diseases,E1,HMDD,"[81](Zabrodskaya et al., 2022)",,In vitro,qRT-PCR,,,,True
 miR-548c-5p,Breast cancer,Cancer,E1,HMDD,"[17](He & Wang et al., 2020)",,In vitro,qRT-PCR,,,,True
-miR-548d-3p,Osteosarcoma,Cancer,E1,HMDD,"[27]Zhang et al., 2019 ; [76](Chen et al., 2019)",,Ex vivo In vitro,Microarray analysis Dual/luciferase reporter assay qRT-PCR,KRAS,MAPK/ERK signaling,Tumor suppressor,True
+miR-548d-3p,Osteosarcoma,Cancer,E1,HMDD,"[27]Zhang et al., 2019 ; [46](Chen et al., 2019)",,Ex vivo In vitro,Microarray analysis Dual/luciferase reporter assay qRT-PCR,KRAS,MAPK/ERK signaling,Tumor suppressor,True
 miR-548d-3p,Gastric cancer,Cancer,E1,HMDD; HMDD; HMDD,"[87](Huang et al., 2022); [88](Liang et al., 2020); [92](Yu, S. et al., 2022)",,In vitro In vivo,Microarray assay qRT/PCR Dual-luciferase reporter assay,RSK4 KLF9,MAPK signaling regulation TPTEP1 regulates miR-548d-3p/KLF9/PER1 axis,Oncogenic,True
 miR-548d-3p,Breast cancer,Cancer,E1,HMDD,"[23]Záveský et al., 2022 ; [127](Song et al., 2016)",,In vitro,qRT/PCR Dual-luciferase reporter assay,TP53BP2,Apoptosis regulation,Context-dependent,True
 miR-548d-3p,American Tegumentary Leishmaniasis,Infectious diseases,E1,HMDD,"[20](Souza et al., 2021)",,Ex vivo In silico,qRT-PCR TargetScan DIANA-miRpath 3.0,,,,True
