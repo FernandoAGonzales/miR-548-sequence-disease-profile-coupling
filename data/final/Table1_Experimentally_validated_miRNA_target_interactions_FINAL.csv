@@ -18,7 +18,7 @@ miR-548d-3p,RSK4 KLF9,Gastric cancer,MAPK signaling regulation TPTEP1 regulates 
 miR-548d-3p,TP53BP2,Breast cancer,Apoptosis regulation,Context-dependent,qRT/PCR Dual-luciferase reporter assay,"[23]Záveský et al., 2022 ; [127](Song et al., 2016)",
 miR-548d-3p,SOCS5/SOCS6,Oral squamous cell carcinoma,JAK–STAT signaling pathway,Oncogenic,qRT-PCR,"[79](Tan et al., 2019)",
 miR-548d,MYCC,Medulloblastoma,MYCC signaling,Tumor suppressor,qRT/PCR Dual-luciferase reporter assay,"[72](Lv et al., 2012)",
-miR-548e-3p,CXCR4,Ovarian cancer,,,qRT-PCR/luciferase reporter/RNA Immunoprecipitation/xenograft model,"[138](Zhang, J. et al., 2020)",
+miR-548e-3p,CXCR4,Ovarian cancer,ZFAS1–miR-548e–CXCR4,Tumor suppressor,qRT-PCR/luciferase reporter/RNA Immunoprecipitation/xenograft model,"[138](Zhang, J. et al., 2020)",
 miR-548g-3p,Viral replication factors,Dengue virus infection,Viral replication inhibition,Antiviral,,"[26]Zhuo et al., 2018","[55](Wen et al., 2015)"
 miR-548g,RUNX1,Gastric cancer,,,qRT-PCR/ luciferase reporter/ RNA immuneprecipitation,"[89](Fang et al., 2019)",
 miR-548i,NFATC3,Hepatocellular carcinoma,"JNK, c-Jun, AKT, and mTOR signaling pathways",,qRT-PCR/xenograft model/Luciferase reporter,"[102](Jia et al., 2021)",
