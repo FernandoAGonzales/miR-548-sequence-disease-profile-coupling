@@ -15,27 +15,27 @@ Cancer,Gallbladder cancer,miR-548c-3p,E1,HMDD,"[123](Kong, L. et al., 2019)",1
 Cancer,Gastric cancer,miR-548a-3p; miR-548ac; miR-548bb-3p; miR-548c-3p; miR-548d-3p; miR-548g; miR-548h; miR-548j; miR-548z,E1,Not specified in source workbook; HMDD; HMDD; HMDD; HMDD; HMDD; HMDD,"[110](Chen, S. et al., 2020); [111](Chen et al., 2023); [49](Yu, S. et al., 2022); [112](Li, B. et al., 2022); [66](Huang et al., 2022); [48](Liang et al., 2020); [55](Fang et al., 2019); [113](Landeros et al., 2021); [114](Modesto et al., 2023)",9
 Cancer,Glioma,miR-548b-3p; miR-548m,E1,HMDD,"[103](Li, Chenlong. et al., 2022); [63](Li & Lan, 2023)",2
 Cancer,Head and neck squamous cell carcinoma,miR-548b-3p; miR-548b-5p; miR-548k,E2; E1,HMDD,"[89](Sass, S. et al., 2015; [90](Veeramachaneni et al., 2019)",3
-Cancer,Hepatocellular carcinoma,miR-548a-3p; miR-548a-5p; miR-548ah-3p; miR-548b-3p; miR-548c-3p; miR-548i; miR-548l-5p; miR-548p; miR-548s-3p,E1,Not specified in source workbook; HMDD; HMDD; HMDD,"[97](Habieb et al., 2019); [98](Zhao et al., 2016); [99](Wang, L. et al., 2022); [100](Lin & Wang, 2018); [11](Chen et al., 2022); [101](Jin et al., 2020); [102](Jia et al., 2021); [103](Cai et al., 2017); [16]Feng, 2021 ; [104](Wang, Y. et al., 2022); [105](Li, Z et al., 2022); [27](Zhang et al., 2019); [106](Xu et al., 2022)",9
-Cancer,Hypopharyngeal squamous cell carcinoma,miR-548ao-3p,E1,HMDD,"[83](Yan, J. et al., 2020)",1
-Cancer,Laryngeal Carcinoma,miR-548ac; miR-548k,E1,HMDD,"[59](Song et al., 2020); [58](Kang et al., 2021)",2
-Cancer,Malignant Astrocytoma,miR-548b-5p,E1,HMDD,"[75](Yang et al., 2013)",1
-Cancer,Medulloblastoma,miR-548d,E1,HMDD,"[72](Lv et al., 2012)",1
+Cancer,Hepatocellular carcinoma,miR-548a-3p; miR-548a-5p; miR-548ah-3p; miR-548b-3p; miR-548c-3p; miR-548i; miR-548l-5p; miR-548p; miR-548s-3p,E1,Not specified in source workbook; HMDD; HMDD; HMDD,"[118](Habieb et al., 2019); [119](Zhao et al., 2016); [120](Wang, L. et al., 2022); [121](Lin & Wang, 2018); [11](Chen et al., 2022); [39](Jin et al., 2020); [56](Jia et al., 2021); [61](Cai et al., 2017); [67](Wang, Y. et al., 2022); [68](Li, Z et al., 2022); [69](Zhang et al., 2019); [122](Xu et al., 2022)",9
+Cancer,Hypopharyngeal squamous cell carcinoma,miR-548ao-3p,E1,HMDD,"[109](Yan et al., 2020)",1
+Cancer,Laryngeal Carcinoma,miR-548ac; miR-548k,E1,HMDD,"[50](Song et al., 2020); [91](Kang et al., 2021)",2
+Cancer,Malignant Astrocytoma,miR-548b-5p,E1,HMDD,"[104](Yang et al., 2013)",1
+Cancer,Medulloblastoma,miR-548d,E1,HMDD,"[52](Lv et al., 2012)",1
 Cancer,Melanoma,miR-548b-3p,E1,HMDD,"[16](Feng, 2021)",1
-Cancer,Multiple Myeloma,miR-548q; miR-548y,E1,HMDD,"[121](Li et al., 2021)",2
+Cancer,Multiple Myeloma,miR-548q; miR-548y,E1,HMDD,"[131](Li et al., 2021)",2
 Cancer,Nasopharyngeal Carcinoma,miR-548q,E1,HMDD,"[26](Zhuo et al., 2018); [24](Zheng et al., 2014)",1
-Cancer,Neuroblastoma,miR-548l,E1,HMDD,"[71](Jurcevic et al., 2022)",1
-Cancer,Non-Hodgkin Lymphoma,miR-548m,E1,HMDD,"[122](Lwin, T. et al., 2013)",1
-Cancer,Non-Small-Cell Lung Carcinoma,miR-548ac; miR-548aq-5p; miR-548as-3p; miR-548b-3p; miR-548j-5p; miR-548l; miR-548o-3p; miR-548v,E1,Not specified in source workbook; HMDD; Pubmed; HMDD; HMDD,"[62](He et al., 2020); [63](Ma et al., 2017); [61](Akgun et al., 2019); [60](Wang, Z. et al., 2020); [68](Halvorsen et al., 2018); [21](Yang et al., 2023); [64](Wang, X. et al., 2022); [25](Zheng et al., 2021); [65](Lin et al., 2018); [66](Xin et al., 2020); [67](Chen, G. et al., 2020)",8
-Cancer,Oral squamous cell carcinoma,miR-548d-3p,E1,HMDD,"[79](Tan et al., 2019)",1
-Cancer,Osteosarcoma,miR-548c-3p; miR-548d-3p,E1,HMDD; HMDD; HMDD,"[77](Yao et al., 2020); [78](Zheng et al., 2020); [27]Zhang et al., 2019 ; [76](Chen et al., 2019)",2
-Cancer,Ovarian cancer,miR-548c-3p; miR-548e-3p,E1,HMDD,"[137](Sun, X. et al., 2016); [138](Zhang, J. et al., 2020)",2
-Cancer,Pancreatic cancer,miR-548an; miR-548d,E1,HMDD,"[93](Zhu, et al., 2016); [94](Heyn et al., 2012)",2
-Cancer,Pancreatic carcinoma,miR-548s; miR-548t-5p,E1,HMDD,"[95](Zhu, Y. et al., 2021; [96](Ge, W. et al., 2020)",2
-Cancer,Papillary Thyroid Cancer,miR-548b-3p; miR-548c-3p,E1,HMDD,"[145](Feng et al., 2021); [15]Liang et al., 2012 ; [146](Du, Y. et al., 2019)",2
-Cancer,Primary central nervous system lymphoma (PCNSL),miR-548b-5p,E1,HMDD,"[123](Takashima et al.,2020)",1
-Cancer,Prostate cancer,miR-548c-3p,E1,Pubmed,"[142](Saffari M. et al., 2019)",1
-Cancer,Prostate neoplasm,miR-548a-3p; miR-548ai,E1,HMDD,"[143](Panebianco et al., 2021); [144](Valera et al., 2020)",2
-Cancer,Rectal cancer,miR-548c-5p; miR-548d-5p,E1; E2,HMDD,"[118](Du, B. et al., 2018)",2
-Cancer,Small Cell Lung Carcinoma,miR-548ah-5p,E1,HMDD,"[70](Mo et al., 2020)",1
-Cancer,Squamous Cell Carcinoma,miR-548q,E1,HMDD,"[69](Singh, A. et al., 2022)",1
-Cancer,Triple negative Breast cancer,miR-548c-3p,E1,HMDD; HMDD,"[16]Feng, 2021 ; [135](Wang, X. et al., 2021); [136](Tormo, E. et al., 2015)",1
+Cancer,Neuroblastoma,miR-548l,E1,HMDD,"[102](Jurcevic et al., 2022)",1
+Cancer,Non-Hodgkin Lymphoma,miR-548m,E1,HMDD,"[64](Lwin, T. et al., 2013)",1
+Cancer,Non-Small-Cell Lung Carcinoma,miR-548ac; miR-548aq-5p; miR-548as-3p; miR-548b-3p; miR-548j-5p; miR-548l; miR-548o-3p; miR-548v,E1,Not specified in source workbook; HMDD; Pubmed; HMDD; HMDD,"[92](Wang et al., 2020); [93](Akgun et al., 2019); [94](He et al., 2020); [95](Ma et al., 2017); [21](Yang et al., 2023); [59](Wang, X. et al., 2022); [25](Zheng et al., 2021); [96](Lin et al., 2018); [97](Xin et al., 2020); [98](Chen, G. et al., 2020); [99](Halvorsen et al., 2018)",8
+Cancer,Oral squamous cell carcinoma,miR-548d-3p,E1,HMDD,"[51](Tan et al., 2019)",1
+Cancer,Osteosarcoma,miR-548c-3p; miR-548d-3p,E1,HMDD; HMDD; HMDD,"[105](Yao et al., 2020); [106](Zheng et al., 2020); [46](Chen et al., 2019)",2
+Cancer,Ovarian cancer,miR-548c-3p; miR-548e-3p,E1,HMDD,"[40](Sun, X. et al., 2016); [53](Zhang et al., 2020)",2
+Cancer,Pancreatic cancer,miR-548an; miR-548d,E1,HMDD,"[115](Zhu, et al., 2016); [116](Heyn et al., 2012)",2
+Cancer,Pancreatic carcinoma,miR-548s; miR-548t-5p,E1,HMDD,"[117](Zhu, Y. et al., 2021; [70](Ge, W. et al., 2020)",2
+Cancer,Papillary Thyroid Cancer,miR-548b-3p; miR-548c-3p,E1,HMDD,"[146](Feng et al., 2021); [35](Du, Y. et al., 2019)",2
+Cancer,Primary central nervous system lymphoma (PCNSL),miR-548b-5p,E1,HMDD,"[132](Takashima et al.,2020)",1
+Cancer,Prostate cancer,miR-548c-3p,E1,Pubmed,"[143](Saffari M. et al., 2019)",1
+Cancer,Prostate neoplasm,miR-548a-3p; miR-548ai,E1,HMDD,"[144](Panebianco et al., 2021); [145](Valera et al., 2020)",2
+Cancer,Rectal cancer,miR-548c-5p; miR-548d-5p,E1; E2,HMDD,"[128](Du, B. et al., 2018)",2
+Cancer,Small Cell Lung Carcinoma,miR-548ah-5p,E1,HMDD,"[101](Mo et al., 2020)",1
+Cancer,Squamous Cell Carcinoma,miR-548q,E1,HMDD,"[100](Singh, A. et al., 2022)",1
+Cancer,Triple negative Breast cancer,miR-548c-3p,E1,HMDD; HMDD,"[36](Wang, X. et al., 2021); [37](Tormo, E. et al., 2015)",1
