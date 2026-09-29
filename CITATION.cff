@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 message: "If you use these datasets, scripts, or workflows, please cite this repository and the associated manuscript."
 
-title: "Disease-association convergence in the miR-548 family reveals limited coupling between mature-sequence evolution and broad disease profiles: datasets and reproducible workflows"
+title: "Disease-association convergence in the miR-548 family reveals limited coupling between mature-sequence evolution and broad disease profiles"
 
 authors:
   - family-names: Asanza-Sanmartin
@@ -27,8 +27,8 @@ authors:
 
 version: "1.0.0-submission"
 date-released: 2026-09-18
-repository-code: "https://github.com/FernandoAGonzales/miR-548-weak-phylogenetic-coupling-and-functional-convergence"
-url: "https://github.com/FernandoAGonzales/miR-548-weak-phylogenetic-coupling-and-functional-convergence"
+repository-code: "https://github.com/FernandoAGonzales/miR-548-sequence-disease-profile-coupling   "
+url: "https://github.com/FernandoAGonzales/miR-548-sequence-disease-profile-coupling"
 license: MIT
 
 keywords:
