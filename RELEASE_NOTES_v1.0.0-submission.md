@@ -17,7 +17,7 @@ This release is the audited, submission-synchronized computational record for th
 - Locked phylogenetic resources in `results/phylogeny/`.
 - Audited Figure 7/8 analysis scripts in `scripts/final_audited_workflow/`.
 - Figure 6 sequence-alignment and Shannon-entropy scripts in `scripts/scripts for figure 6/`.
-- Reproducibility metadata, environment files, citation metadata, manifest, and checksums.
+- Reproducibility metadata, environment files, citation metadata, and submission manifest.
 
 ## Final analysis populations
 
