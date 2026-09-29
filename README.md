@@ -4,7 +4,7 @@ This repository is the audited, submission-synchronized computational record for
 
 **Disease-association convergence in the miR-548 family reveals limited coupling between mature-sequence evolution and broad disease profiles**
 
-Repository: `https://github.com/FernandoAGonzales/miR-548-weak-phylogenetic-coupling-and-functional-convergence`
+Repository: `https://github.com/FernandoAGonzales/miR-548-sequence-disease-profile-coupling`
 
 ## Final analysis populations
 
