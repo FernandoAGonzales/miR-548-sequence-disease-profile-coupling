@@ -34,11 +34,11 @@ Use `data/final/` for manuscript-facing analyses.
 - `Figure8_E1only_canonical_43_miRNAs.csv` — final E1-only sequence-resolved matrix.
 - `miR548_FINAL_Supplementary_Tables_S1_S3_and_Figure2_3_audit.xlsx` — reconciled supplementary workbook plus Figure 2/3 source audit.
 
-The mature-sequence repertoire and exact deposited alignment are retained in `data/raw/` as sequence source resources. Earlier disease-table drafts have been moved to `archive/legacy_disease_inputs/` so they cannot be confused with the audited `data/final/` dataset.
+The mature-sequence repertoire and exact deposited alignment are retained in `data/raw/` as sequence source resources. Superseded draft disease tables and legacy processed outputs are intentionally excluded from this public submission snapshot.
 
 ## Figures 2 and 3
 
-The final manuscript artwork is provided in `figures/final/`.
+The final manuscript artwork is provided in `Figures/`.
 
 - **Figure 2:** anatomical overview of 24 named non-cancer conditions represented in final Supplementary Tables S1-S2.
 - **Figure 3:** anatomical overview of 40 named neoplastic conditions/subtypes represented in final Supplementary Table S3.
@@ -73,13 +73,15 @@ Primary sequence distance is normalized global Levenshtein distance. Disease-pro
 
 ## Final manuscript figures
 
-`figures/final/` contains the exact PNG artwork used in the synchronized manuscript as `Figure1_FINAL.png` through `Figure8_FINAL.png`. Vector PDFs are retained for Figures 7 and 8 where available.
+`Figures/` contains the eight manuscript figure PNGs as `Figure1.png` through `Figure8.png`.
 
 ## Reproducibility
 
-The authoritative scripts are in `scripts/final_audited_workflow/`.
+The authoritative Figure 7/8 scripts are in `scripts/final_audited_workflow/`.
 
-The previous Figure 7/8 workflow is retained under `scripts/legacy_figure7_workflow/` for provenance only. Superseded processed outputs have been moved to `archive/legacy_processed/`. Neither the legacy scripts nor archived outputs should be used to reproduce the manuscript results.
+The Figure 6 sequence-alignment and Shannon-entropy scripts are in `scripts/scripts for figure 6/`.
+
+Legacy workflows and superseded processed outputs are intentionally excluded from this public submission snapshot to avoid confusion with the audited final analyses.
 
 ## Phylogenetic resources
 
