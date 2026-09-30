@@ -26,6 +26,7 @@ authors:
     given-names: Fernando A.
 
 version: "1.0.0-submission"
+doi: 10.5281/zenodo.23048837
 date-released: 2026-09-29
 repository-code: "https://github.com/FernandoAGonzales/miR-548-sequence-disease-profile-coupling"
 url: "https://github.com/FernandoAGonzales/miR-548-sequence-disease-profile-coupling"
