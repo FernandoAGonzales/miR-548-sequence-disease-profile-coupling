@@ -6,6 +6,9 @@ This repository is the audited, submission-synchronized computational record for
 
 Repository: `https://github.com/FernandoAGonzales/miR-548-sequence-disease-profile-coupling`
 
+Zenodo archival release: `v1.0.1-submission`  
+DOI: **10.5281/zenodo.23048837**
+
 ## Final analysis populations
 
 - **Figure 5:** locked maximum-likelihood phylogeny of 81 mature miR-548 sequences (37 3p-derived; 44 5p-derived), K2P+G, 2,000 bootstrap replicates, 34 aligned positions.
@@ -91,6 +94,6 @@ Legacy workflows and superseded processed outputs are intentionally excluded fro
 
 Python 3.12; NumPy; pandas; SciPy; NetworkX; matplotlib; Biopython. MEGA v12.1 was used for phylogenetic reconstruction.
 
-## Release guidance
+## Archival release
 
-For journal submission, create a tagged release (recommended tag: `v1.0.0-submission`) from this synchronized snapshot. After the GitHub release is frozen, archive the release in Zenodo and add the resulting DOI to the manuscript Data Availability Statement and repository metadata.
+The submission-synchronized archival snapshot is GitHub release `v1.0.1-submission`, permanently preserved in Zenodo under DOI **10.5281/zenodo.23048837**.
